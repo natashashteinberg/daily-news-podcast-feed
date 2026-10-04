@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>עשרה אירועים ב-15 דקות</title>
+    <link>https://natashashteinberg.github.io/daily-news-podcast-feed/</link>
+    <atom:link href="https://natashashteinberg.github.io/daily-news-podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>תקציר חדשות יומי בעברית: עשרת האירועים המרכזיים של היום בכ-15 דקות. התסריט והקול נוצרים בעזרת בינה מלאכותית ומבוססים על דיווחי כלי תקשורת מרכזיים, בניסוח עצמאי.</description>
+    <language>he</language>
+    <itunes:author>עשרה אירועים ב-15 דקות</itunes:author>
+    <itunes:owner>
+      <itunes:name>עשרה אירועים ב-15 דקות</itunes:name>
+      <itunes:email>natalia.shteinberg@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://natashashteinberg.github.io/daily-news-podcast-feed/cover.jpg"/>
+    <itunes:category text="News"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>עשרה אירועים ב-15 דקות – 5 באוקטובר 2026</title>
+      <description>עשרה אירועים ב-15 דקות – 5 באוקטובר 2026
+
+• אחד. פרשת מטוס פליידובאי (מקורות: אל ג'זירה, NPR, CNN, טיימס אוף ישראל)
+• שתים. איראן, הורמוז והנפט (מקורות: אל ג'זירה, הארץ, טיימס אוף ישראל)
+• שלוש. מתקפה בתימן והתקפות על סעודיה (מקורות: CNN, ABC News, Defense News)
+• ארבע. בחירות בברזיל (מקורות: רויטרס, CNBC, טיימס אוף ישראל)
+• חמש. בריטניה: סילוק מפציצים ממתקן פיירפורד (מקורות: ITV, NBC News)
+• שש. הבחירות בישראל בעוד שלושה שבועות (מקורות: טיימס אוף ישראל, הארץ, ג'רוזלם פוסט)
+• שבע. כלכלה: וול סטריט ומחירי הדלק בישראל (מקורות: CNBC, טיימס אוף ישראל)
+• שמונה. המפלגה הירוקה בבריטניה והחרם הישראלי (מקורות: LBC, טיימס אוף ישראל)
+• תשע. אוקראינה ורוסיה (מקורות: קייב אינדיפנדנט, אוקרינפורם)
+• עשר. ספורט: ישראל ואירלנד (מקורות: Goal, ABC News, Yahoo Sports)
+
+התסריט והקול נוצרו בעזרת בינה מלאכותית. חלק מהפרטים עשויים להשתנות.</description>
+      <pubDate>Mon, 05 Oct 2026 06:30:00 +0000</pubDate>
+      <guid isPermaLink="false">daily-news-2026-10-05</guid>
+      <enclosure url="https://github.com/natashashteinberg/daily-news-podcast-feed/releases/download/ep-2026-10-05/daily-news-2026-10-05.mp3" length="7024556" type="audio/mpeg"/>
+      <itunes:duration>00:14:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
