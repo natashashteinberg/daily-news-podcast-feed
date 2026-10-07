@@ -4,8 +4,8 @@
     <title>עשרה אירועים ב-15 דקות</title>
     <link>https://natashashteinberg.github.io/daily-news-podcast-feed/</link>
     <atom:link href="https://natashashteinberg.github.io/daily-news-podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <description>תקציר חדשות יומי בעברית: עשרת האירועים המרכזיים של היום בכ-15 דקות. התסריט והקול נוצרים בעזרת בינה מלאכותית ומבוססים על דיווחי כלי תקשורת מרכזיים, בניסוח עצמאי.</description>
-    <language>he</language>
+    <description>A daily news roundup in English: the 15 biggest stories in about 15 minutes, with a little attitude. Scripts and voice are AI-generated, based on reporting from major news outlets and written in our own words. Commentary is opinion; verify anything important.</description>
+    <language>en-us</language>
     <itunes:author>עשרה אירועים ב-15 דקות</itunes:author>
     <itunes:owner>
       <itunes:name>עשרה אירועים ב-15 דקות</itunes:name>
@@ -15,6 +15,33 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Fifteen in Fifteen – October 7, 2026</title>
+      <description>Fifteen in Fifteen – October 7, 2026
+
+• Israel marks three years since October 7 (sources: The Times of Israel, Haaretz)
+• Security warning for the anniversary (sources: The Times of Israel, i24NEWS)
+• Gaza: strikes continue, UN calls for a permanent ceasefire (sources: Qatar News Agency, The Times of Israel, The Jerusalem Post)
+• Israel's election: a race that's too close to call (sources: Haaretz, The Jerusalem Post)
+• Haredi protesters block a draft-dodger arrest (sources: The Times of Israel, Haaretz)
+• Flydubai cockpit attack on a flight to Tel Aviv (sources: Euronews, Al Jazeera, The Times of Israel)
+• Zelensky hosts an Israeli delegation in Kyiv (sources: The Times of Israel, 112 Ukraine)
+• Trump's 'take out Los Angeles' remark draws backlash (sources: Axios, NBC News, FactCheck.org)
+• Trump approves firing squad for Fort Hood shooter (sources: The Washington Post, CNBC, Al Jazeera)
+• Wall Street hits a record as oil eases (sources: TheStreet, Bloomberg, Yahoo Finance)
+• Paramount's merger with Warner Bros. Discovery closes (sources: Deadline, The Hill, NBC Los Angeles)
+• Trump announces $90 Medicare payments for seniors (sources: CNN, NBC News, The White House)
+• Okinawa: curfew and alcohol ban for U.S. forces after murder case (sources: Reuters via U.S. News, Bangkok Post)
+• Jeffrey Archer, novelist and former politician, dies at 86 (sources: The Irish Times, ITV News)
+• Nobel Prize in Physics goes to Francis Halzen for ghost particles (sources: NobelPrize.org, CNN, Al Jazeera)
+
+Script and voice are AI-generated. Details may change as stories develop. Commentary is opinion.</description>
+      <pubDate>Wed, 07 Oct 2026 06:30:00 +0000</pubDate>
+      <guid isPermaLink="false">daily-news-2026-10-07</guid>
+      <enclosure url="https://github.com/natashashteinberg/daily-news-podcast-feed/releases/download/ep-2026-10-07/daily-news-2026-10-07.mp3" length="10072755" type="audio/mpeg"/>
+      <itunes:duration>00:13:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>עשרה אירועים ב-15 דקות – יום שלישי, 6 באוקטובר 2026</title>
       <description>עשרה אירועים ב-15 דקות – יום שלישי, 6 באוקטובר 2026
